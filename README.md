@@ -1,5 +1,7 @@
 Python Socket Calculator
 
+python is a programming language
+
 how to use:
 - run "python server.py" in terminal
 - run "python client.py" in another terminal
